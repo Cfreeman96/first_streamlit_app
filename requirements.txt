@@ -1,0 +1,2 @@
+# rewuirement.txt
+snowflake-connector-python
